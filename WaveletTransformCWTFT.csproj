@@ -101,6 +101,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\20200903093820.png" />
     <Content Include="libfftw3-3.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
