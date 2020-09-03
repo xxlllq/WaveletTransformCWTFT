@@ -6,6 +6,6 @@
 
 <div align="center">
  <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/WaveletTransformCWTFT/master/img/20200903093820.png" alt="可视化界面截图" width=400 />
+ <img src="https://raw.githubusercontent.com/xxlllq/WaveletTransformCWTFT/master/img/20200903093820.png" alt="可视化界面截图" width=700 />
  </kbd> 
  </div>
