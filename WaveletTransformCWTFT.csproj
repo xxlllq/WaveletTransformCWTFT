@@ -107,6 +107,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="lib\SplashScreen.dll" />
+    <Content Include="testdata\FLR-5-6.txt" />
+    <Content Include="testdata\FRR-6-7.txt" />
+    <Content Include="testdata\test.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
